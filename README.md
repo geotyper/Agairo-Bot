@@ -10,7 +10,7 @@ need CUDA drivers
  
 if you interesting in this project I can add some more functions/ save/load genotype and other
 support full screnn
-To compile from source you need SFML library and CUDA library. 
+To compile from source you need SFML library and CUDA library and ariel.ttf font from /bin. 
 
 Программа и исходники бота по игре Агарио на нейронной сети
 исходники проекта на с++ 
