@@ -2,10 +2,8 @@
 
 Program simulation genetic algorithm for Bot with neural network
 c++ language
- 
 in folder bin executed file for Windows
 need CUDA drivers
-
  G - on/off graphics for speed up CUDA calculations
  E / D -changes arenes where bots fights
  P / M  increase/decrease number of Tick for round
@@ -15,16 +13,12 @@ support full screnn
 To compile from source you need SFML library and CUDA library. 
 
 Программа и исходники бота по игре Агарио на нейронной сети
-
- исходники проекта на с++ 
- 
- в папке Bin исполняемый файл под Windows 
- требуется установить драйверы СUDA
- управление
+исходники проекта на с++ 
+в папке Bin исполняемый файл под Windows 
+требуется установить драйверы СUDA
+управление
  G - отключить графику для ускорения расчетов
  E и D -переключение между "мирами" или аренами
  P и M увеличение/уменьшение количества тиков в раунде
- 
  было много версий и с сохранием Генотипа и с ini файлом пишите, если что все обратно привинчу или что добавлю по желанию
- 
  Поддерживает полноэкранный режим
