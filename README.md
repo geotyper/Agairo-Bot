@@ -1,4 +1,19 @@
 # Agairo-Bot
+
+Program simulation genetic algorithm for Bot with neural network
+c++ language
+ 
+in folder bin executed file for Windows
+need CUDA drivers
+
+ G - on/off graphics for speed up CUDA calculations
+ E / D -changes arenes where bots fights
+ P / M  increase/decrease number of Tick for round
+ 
+if you interesting in this project I can add some more functions/ save/load genotype and other
+support full screnn
+ 
+
 Программа и исходники бота по игре Агарио на нейронной сети
 
  исходники проекта на с++ 
